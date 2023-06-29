@@ -14,5 +14,5 @@ public class SendKeysAndclickExample
 	
 }
  
-	
+	WebDriver driver=new ChromeDriver();
 }
